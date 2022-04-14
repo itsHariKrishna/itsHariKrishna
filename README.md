@@ -2,5 +2,4 @@
 - 👀 I’m interested in 3D modeling, story telling and programming.
 - 🌱 I’m currently exploring my own cool/crazy ideas via 3d modeling and my programming expertise. 
 - 💞️ I’m looking to collaborate on 3d modeling, vfx, mobile app development projects.
-- 📫 Reach me via my email : itsharikrishna8@gmail.com
-- Seeya!👋
+- 📫 Reach me via my email : itsharikrishna8@gmail.com.
