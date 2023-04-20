@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Hari,
-- 👀 I’m interested in 3D modeling and programming.
-- 🌱 I’m currently exploring my own cool/crazy ideas via 3d modeling and my programming expertise. 
-- 💞️ I’m looking to collaborate on 3d modeling, vfx, flutter app development and python projects.
-- 📫 Reach me via my email : itsharikrishna8@gmail.com.
-- 👤 LinkedIn : www.linkedin.com/in/thisisharikrishna
-- 🎨 Behance profile: https://www.behance.net/mr_h
-- 🌐 Artwork links: https://withkoji.com/@Hari_Sidharth
+👋 Hey there, I’m Hari,
+- 🚀 A React Native enthusiast
+- 🎨 Passionate about designing beautiful user interfaces
+- 📊 Experience with MySQL for database management
+- ☁️ Familiarity with AWS Amplify backend service
+- 💻 Sharing my coding journey and projects on GitHub
+- 🤝 Open to collaboration and building new connections
+- 🌟 Always striving to learn and improve my skills
+- 
+- 🔗 Connect-
+- 📧 itsharikrishna8@gmail.com
+- 👔 www.linkedin.com/in/thisisharikrishna
