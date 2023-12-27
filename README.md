@@ -5,7 +5,7 @@
 - ☁️ Familiarity with AWS Amplify backend service
 - 💻 Sharing my coding journey and projects on GitHub
 - 🤝 Open to collaboration and building new connections
-- 🌟 Always striving to learn and improve my skills
+- 
 - 
 - 🔗 Connect-
 - 📧 itsharikrishna8@gmail.com
