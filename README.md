@@ -9,4 +9,4 @@
 - 
 - 🔗 Connect-
 - 📧 itsharikrishna8@gmail.com
-- 👔 www.linkedin.com/in/harithedev
+- 👔 www.linkedin.com/in/thisisharikrishna
